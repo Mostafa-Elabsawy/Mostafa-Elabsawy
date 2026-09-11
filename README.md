@@ -1,7 +1,7 @@
-![GIF](./assests/gif.gif)
+
 # 💫 About Me:
 🔭 I’m currently working on<br>Building scalable Angular applications and full-stack web projects, with a focus on clean architecture, great UI, and real-world functionality.<br><br>👯 I’m looking to collaborate on<br>Interesting web projects, open-source ideas, and products where I can contribute with Angular, TypeScript, Node.js, or problem-solving.<br><br>🤝 I’m looking for help with<br>Growing as a software engineer, writing better scalable code, and learning from developers who build things at a high level.<br><br>🌱 I’m currently learning<br>Advanced Angular, scalable frontend architecture, backend development, and how to build smarter applications with AI.<br><br>💬 Ask me about<br>Angular, TypeScript, MEAN Stack, REST APIs, frontend architecture, or competitive programming.<br><br>⚡ Fun fact<br>I enjoy turning problems that look complicated at first into something simple, structured, and actually buildable.<br>
-
+![GIF](./assests/gif.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/100006018180183) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elabsawy-mostafa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mostafaelabsawy9) 
